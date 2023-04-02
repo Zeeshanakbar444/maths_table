@@ -1,0 +1,32 @@
+#zeeshan   {
+    border: 2px solid black;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: aqua;
+    margin-left: 10px;
+}
+tr{
+    margin: 10px;
+}
+.one{
+    margin-top: 10px;
+}
+.two{
+    margin-top: 10px;
+}
+body{
+    background-color: rgb(216, 168, 109);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: red;
+    color: aliceblue;
+    cursor: e-resize;
+}
+button:hover{
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+}
